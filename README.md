@@ -1,16 +1,13 @@
-### Hi there 👋
+### Howdy 👋
 
-<!--
-**MatteoJoliveau/MatteoJoliveau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Matt, a software developer from Milan, Italy!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I like: the ☁️Cloud, functional programming and distributed systems
+
+I work with various programming languages such as Erlang/Elixir, Java, Rust and JavaScript, and design Cloud- and [Kubernetes]-native systems.
+
+I develop and maintain [Enseada], the Cloud native multi-package registry.
+
+[Kubernetes]: https://kubernetes.io
+[Enseada]: https://enseada.io
